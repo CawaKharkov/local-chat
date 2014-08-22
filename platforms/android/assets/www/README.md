@@ -1,0 +1,5 @@
+App root
+==========
+
+
+ * bower install
